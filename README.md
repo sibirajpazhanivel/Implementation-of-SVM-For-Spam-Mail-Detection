@@ -22,8 +22,8 @@ Step 1 :Import the necessary python packages using import statements.
 
 ## Program:
 ```
- Developed by: DIVYA K
- RegisterNumber:212222230035
+ Developed by: SIBIRAJ P
+ RegisterNumber:212222220046
 ```
 
 ```python
